@@ -43,3 +43,9 @@ button {
 h1 {
   color: var(--background-primary-color);
 }
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: var(--background-primary-color);
+  color: var(--text-primary-color);
+}
