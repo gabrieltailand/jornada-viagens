@@ -18,12 +18,18 @@
   background-size: cover;
 }
 
+.destination-items .item header h4 {
+  margin: 24px 0;
+}
+
 .destinations .item header h3 {
   margin: 24px 0;
 }
+
 .destinations .item p {
   margin-bottom: 24px;
 }
+
 .destinations .button {
   width: 100%;
 }
